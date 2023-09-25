@@ -1,0 +1,6 @@
+[[52 40]
+ [ 8 20]]
+Precision: 0.639751552795031
+Recall: 0.6
+Accuracy: 0.6
+Classifier Score: 0.4545454545454545
